@@ -82,10 +82,9 @@ $ ./profile --verbose
 
 <div align="left">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/YOUR_USERNAME](https://github.com/sabkari-mohamed))
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)]([https://app.hackthebox.com/profile/YOUR_HTB_ID](https://profile.hackthebox.com/profile/019d8272-47a7-73c2-8dd4-55e5b63f9ebc))
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red)]([https://tryhackme.com/p/YOUR_THM_ID](https://tryhackme.com/p/monstissz12))
-
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sabkari-mohamed)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://profile.hackthebox.com/profile/019d8272-47a7-73c2-8dd4-55e5b63f9ebc)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red)](https://tryhackme.com/p/monstissz12)
 </div>
 
 ---
