@@ -1,16 +1,103 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**sabkari-mohamed/sabkari-mohamed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
+    ╔══════════════════════════════════════╗
+    ║  > Access granted. Welcome, hacker.  ║
+    ╚══════════════════════════════════════╝
+```
 
-Here are some ideas to get you started:
+# `whoami`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> *I read robots.txt for fun.*
+
+**Web Pentester in training** · OSINT · CTFs · Bug Bounty
+
+</div>
+
+---
+
+## `cat ./about.txt`
+
+```bash
+$ ./profile --verbose
+
+[+] Role.............. Aspiring Web Application Pentester
+[+] Focus............. Recon · Web exploitation · Bug bounty
+[+] Currently......... HTB Academy → CPTS path
+[+] Mission........... Find what others miss
+[+] Coffee............ ████████████ 100%
+```
+
+---
+
+## `ls ./skills/`
+
+### 🛠️ Tools I Live In
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-000000?style=flat-square&logo=owasp&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-00599C?style=flat-square&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logoColor=white)
+
+### 🐍 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+### 🐧 Environment
+![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![Parrot OS](https://img.shields.io/badge/Parrot_OS-15ACD6?style=flat-square&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+---
+
+## `grep -r 'currently_learning' ~/`
+
+```yaml
+- Web application penetration testing
+- Subdomain enumeration & vhost discovery  
+- HTTP protocol manipulation
+- DNS reconnaissance
+- API security testing
+- OSINT methodologies
+```
+
+---
+
+## `tail -f ./roadmap.log`
+
+- [x] Fundamentals of HTTP & web protocols
+- [x] Web proxies (Burp / ZAP)
+- [x] Information gathering · Web edition
+- [ ] Web fuzzing
+- [ ] Authentication attacks
+- [ ] OWASP Top 10 deep dives
+- [ ] HTB CPTS certification
+- [ ] First bug bounty submission
+- [ ] OSCP
+
+---
+
+## `connect --me`
+
+<div align="left">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/YOUR_HTB_ID)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red)](https://tryhackme.com/p/YOUR_THM_ID)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+$ echo "The quieter you become, the more you can hear."
+
+> exit_
+```
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=00ff00)
+
+</div>
